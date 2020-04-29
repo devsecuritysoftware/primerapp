@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Appasto semaforo</string>
+
+    <string name="tv_nombre">Nombre del potrero</string>
+    <string name="et_nombre">Ingrese un nombre</string>
+    <string name="tv_cantidad">Cantidad de pasto</string>
+    <string name="et_cantidad">Ingrese una cantidad</string>
+    <string name="tv_calidad">Calidad de pasto</string>
+    <string name="et_calidad">Ingrese una calidad</string>
+    <string name="guardar">Guardar en servidor</string>
+</resources>
