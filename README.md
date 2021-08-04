@@ -1,4 +1,4 @@
-# Primer app para Android con conexión a base de datos remota
+# app para Android con conexión a base de datos remota
 Java
 MySQL
 PHP
